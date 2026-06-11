@@ -2,9 +2,9 @@
 ### Intelligent Healthcare Support & Volunteer Management Platform
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-success)](https://health-bridge-puce.vercel.app/)
-[![React](https://img.shields.io/badge/React-Frontend-blue)]()
-[![Vite](https://img.shields.io/badge/Vite-Build%20Tool-purple)]()
-[![MIT License](https://img.shields.io/badge/License-MIT-yellow)]()
+![React](https://img.shields.io/badge/React-19-blue?style=for-the-badge&logo=react)
+![Vite](https://img.shields.io/badge/Vite-Frontend-purple?style=for-the-badge&logo=vite)
+![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
 ## 🌐 Live Application
 
